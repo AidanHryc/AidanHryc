@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aidan, an <a href="https://linkedin.com/in/aidanhryc">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aidan, an aspiring <a href="https://linkedin.com/in/aidanhryc">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
